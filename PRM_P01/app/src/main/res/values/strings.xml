@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Manager Finansowy</string>
+    <string name="add">Dodaj</string>
+    <string-array name="typy">
+        <item>Wydatek</item>
+        <item>Przychod</item>
+    </string-array>
+</resources>
